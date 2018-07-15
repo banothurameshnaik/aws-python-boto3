@@ -6,7 +6,7 @@ This is simple project for getting started of AWS using boto3
 
 Python need to installed
 
-	[Installanation Guide](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
+	[**Installanation Guide**](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
 Pip need to installed
 
